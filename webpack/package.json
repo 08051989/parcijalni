@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "webpack": "^5.89.0"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "html": "^1.0.0",
+    "random": "^4.1.0"
+  }
+}
